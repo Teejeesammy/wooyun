@@ -2,7 +2,7 @@
 
 ## wooyun datasets
 
-- usernames
+- natasha
 - passwords
 - URLs
 - sensitive data patterns
